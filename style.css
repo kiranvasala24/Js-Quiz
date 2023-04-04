@@ -1,0 +1,17 @@
+body{
+    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+}
+.col-md-7{
+    margin-top: 150px !important;
+    background-color: antiquewhite;
+    padding: 20px !important;
+}
+h1{
+    background-color: rgb(157, 41, 235);
+    color: rgb(8, 8, 8);
+}
+input,label{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
